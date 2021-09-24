@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 body{
-    background-color: lightskyblue;
+    background-color: #bbfaff;
 }
 .col{
-    background-color: white;
+    background-color: #bbfaff;
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
+}
+a{
+    font-family: 'Bebas Neue', cursive;
+    color:black;
+    font-size: 1.2em;
 }
